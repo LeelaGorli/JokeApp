@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+}
+
+.login-container{
+  background-color:white;
+}
+
+.credential-container{
+  height:100%;
+  width:300px;
+  border-radius:5px;
+}
+
+.login-heading{
+  color:#000000;
+  font-size:35px;
+  font-weight:700;
+  font-family:"Roboto";
+}
+.paragraph{
+  color:#615E5E;
+  font-size:20px;
+  font-weight:500;
+  font-family:"Roboto";
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+
+
+
+
